@@ -36,8 +36,12 @@ section {
     border-radius: 3px;
 }
 
-.box-background {
+.box-background, .box .content {
     height: 83.27vh;
+}
+
+.box .content h1 {
+    font-size: 3.125rem;
 }
 
 .box .box-background img {
