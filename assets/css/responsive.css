@@ -1,0 +1,30 @@
+@media (max-width: 548px) {
+    .logo {
+        max-height: 24px;
+    }
+
+    .btn-login {
+        font-size: 0.9rem;
+        padding: 0.25rem 0.5rem;
+    }
+
+    .box .content h1 {
+        font-size: 1.75rem;
+    }
+
+    .box .content h2 {
+        font-size: 1.125rem;
+    }
+
+    .form-control {
+        height: 48px;
+        flex: none !important;
+        width: 100% !important;
+    }
+}
+
+@media (max-width: 949px) {
+    .assine .input-group-text {
+        font-size: 16px;
+    }
+}
