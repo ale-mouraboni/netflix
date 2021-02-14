@@ -36,7 +36,9 @@ section {
     border-radius: 3px;
 }
 
-.box-background, .box .content {
+.box-background,
+.box .content
+{
     height: 100.27vh;
 }
 
