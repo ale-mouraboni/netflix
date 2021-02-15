@@ -107,3 +107,8 @@ section .subtitle {
     top: 21%;
     max-width: 72.5%;
 }
+
+.video-tv img {
+    position: relative;
+    z-index: 1;
+}

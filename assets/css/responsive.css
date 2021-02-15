@@ -39,17 +39,64 @@
     {
         height: 88.27vh;
     }
-
 }
 
 @media (max-width: 767px) {
     .form-control {
         width: 100% !important;
     }
+
+    section .col-md-6 {
+        margin-top: 0 !important;
+    }
+
+    section .video-tv video,
+    section .video-tv img
+    {
+        margin-top: 0 !important;
+    }
 }
 
 @media (max-width: 949px) {
     .assine .input-group-text {
         font-size: 16px;
+    }
+
+    section .title {
+        font-size: 1.925rem;
+        text-align: center;
+    }
+
+    section .subtitle {
+        font-size: 1.325rem;
+        text-align: center;
+        padding: 0 2%;
+        margin-top: 1rem;
+    }
+
+    section .video-tv video,
+    section .video-tv img
+    {
+        margin-top: 40px;
+    }
+}
+
+@media (max-width: 991px) {
+    section .title {
+        font-size: 1.925rem;
+        text-align: center;
+    }
+
+    section .subtitle {
+        font-size: 1.325rem;
+        text-align: center;
+        padding: 0 2%;
+        margin-top: 1rem;
+    }
+
+    section .video-tv video,
+    section .video-tv img
+    {
+        margin-top: 40px;
     }
 }
