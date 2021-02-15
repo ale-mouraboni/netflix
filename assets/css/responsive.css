@@ -42,6 +42,12 @@
 
 }
 
+@media (max-width: 767px) {
+    .form-control {
+        width: 100% !important;
+    }
+}
+
 @media (max-width: 949px) {
     .assine .input-group-text {
         font-size: 16px;
