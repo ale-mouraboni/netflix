@@ -112,3 +112,35 @@ section .subtitle {
     position: relative;
     z-index: 1;
 }
+
+.mobile-card {
+    position: absolute;
+    left: 50%;
+    bottom: 8%;
+    transform: translateX(-50%);
+    margin: 0 auto;
+    background: black;
+    width: 60%;
+    min-width: 15em;
+    padding: 0.25em 0.65em;
+    border: 2px solid rgba(255, 255, 255, 0.25);
+    box-shadow: 0 0 2em 0 #000000;
+    border-radius: 0.75em;
+}
+
+.mobile-card .card-image img {
+    height: 4.5em;
+}
+
+.mobile-card h5 {
+    font-size: 1rem;
+}
+
+.mobile-card label {
+    font-size: 0.9em;
+    color: #0071eb;
+}
+
+.mobile-card .gif img {
+    width: 3em;
+}

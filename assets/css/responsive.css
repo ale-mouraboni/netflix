@@ -1,3 +1,9 @@
+@media (min-width: 950px) {
+    .mobile {
+        left: -15%;
+    }
+}
+
 @media (max-width: 548px) {
     .logo {
         max-height: 24px;
