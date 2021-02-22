@@ -204,15 +204,13 @@ footer select {
     border: 1px solid #333;
     color: #999;
     font-size: 16px;
-    padding-right: 26px;
-    padding-left: 50px;
     line-height: 1.7;
-    padding: 17px 26px 17px 50px;
+    padding: 17px 7px 17px 40px;
 }
 
 footer .select-globe img {
     position: absolute;
-    top: 17px;
+    top: 20px;
     left: 15px;
     width: 16px;
     height: 16px;
