@@ -40,7 +40,7 @@ Esse projeto é um Clone da Netflix mais "completo", por assim dizer, em que bus
 Esse projeto não foi desenvolvido apenas por mim, mas sim com base também em alguns canais/cursos que acompanho.
 </br>
 <small> (Projeto em desenvolvimento...)</small>
-<h4>Links</h4>
+<h3>Links</h3>
 <a href="https://www.youtube.com/channel/UCE-vXkbyTNW-s44f7jmuwzQ">Full Devs</a>
 </br>
 <a href="https://web.digitalinnovation.one/project/recriando-a-interface-do-netflix/learning/d75bfc6e-a532-47d9-a18d-b5b6c43a660e?back=/track/html-web-developer&bootcamp_id=9fb3f492-ea99-4055-82cb-c364f18706ec">Curso - Felipe Silva Aguiar</a>
