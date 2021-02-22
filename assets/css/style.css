@@ -108,7 +108,16 @@ section .subtitle {
     max-width: 72.5%;
 }
 
-.video-tv img {
+.video-desktop video {
+    position: absolute;
+    left: 18%;
+    max-width: 64%;
+    top: 11%;
+}
+
+.video-tv img,
+.video-desktop img
+{
     position: relative;
     z-index: 1;
 }
