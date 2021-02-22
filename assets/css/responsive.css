@@ -22,6 +22,19 @@
         font-size: 1.125rem;
     }
 
+    .mobile-card .card-image img {
+        height: 3.2em;
+    }
+
+    .mobile-card h5 {
+        padding-left: 15px;
+    }
+
+    .mobile-card label {
+        font-size: 0.7em;
+        padding-left: 15px;
+    }
+
     .form-control {
         height: 48px;
         flex: none !important;
@@ -72,6 +85,11 @@
 
     .form-group {
         margin-bottom: 8px;
+    }
+
+    footer {
+        margin-right: 25px;
+        margin-left: 25px;
     }
 }
 
