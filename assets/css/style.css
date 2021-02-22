@@ -50,7 +50,9 @@ section {
     font-size: 1.625rem;
 }
 
-.box .content h3 {
+.box .content h3,
+.perguntas .subtitle
+{
     font-size: 18px;
 }
 

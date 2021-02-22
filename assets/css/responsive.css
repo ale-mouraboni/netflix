@@ -45,6 +45,30 @@
     {
         height: 88.27vh;
     }
+
+    .perguntas {
+        padding: 0;
+    }
+
+    .perguntas .accordion button {
+        font-size: 1.125rem;
+        padding: 0.8rem 2.2rem 0.8rem 1.2rem;
+    }
+
+    .perguntas .accordion button span {
+        font-size: 2.5rem;
+        line-height: 1.3;
+    }
+
+    .perguntas .subtitle {
+        padding: 0 7%;
+        margin: 0! important;
+        padding-bottom: 0 !important;
+    }
+
+    .form-group {
+        margin-bottom: 8px;
+    }
 }
 
 @media (max-width: 767px) {
