@@ -5,6 +5,8 @@
 
 <p align="center">
   Projeto desenvolvido com bootstrap 4 tendo como objetivo por em prática o meu conhecimento com a tecnologia.
+  </br>
+  <small> (Projeto em desenvolvimento...)</small>
 </p>
 
 <p align="center">
@@ -37,6 +39,7 @@ Esse projeto é um Clone da Netflix mais "completo", por assim dizer, em que bus
 </br>
 Esse projeto não foi desenvolvido apenas por mim, mas sim com base também em alguns canais/cursos que acompanho.
 </br>
+<small> (Projeto em desenvolvimento...)</small>
 <h4>Links</h4>
 <a href="https://www.youtube.com/channel/UCE-vXkbyTNW-s44f7jmuwzQ">Full Devs</a>
 </br>
